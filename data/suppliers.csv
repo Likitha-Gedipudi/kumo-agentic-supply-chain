@@ -1,0 +1,51 @@
+supplier_id,name,country,reliability_score,active_since
+S_0,"Rodriguez, Figueroa and Sanchez",Burundi,0.82,2011
+S_1,"Yang, Gardner and Garza",Antigua and Barbuda,0.51,1971
+S_2,Hall PLC,Anguilla,0.64,2001
+S_3,"Santos, Gardner and Robinson",Namibia,0.61,1985
+S_4,Blake and Sons,Qatar,0.87,1993
+S_5,Moore-Bernard,Guadeloupe,0.84,1975
+S_6,Davis-Abbott,Netherlands,0.95,1984
+S_7,Blair PLC,British Virgin Islands,0.54,2024
+S_8,Miller-Carter,Niue,0.71,2004
+S_9,Ray-Bush,Aruba,0.51,2007
+S_10,Galloway-Wyatt,Tonga,0.61,1975
+S_11,Chavez-Flowers,Central African Republic,0.75,1990
+S_12,Santiago Ltd,Vietnam,0.51,2008
+S_13,Lynch and Sons,Martinique,0.6,2010
+S_14,Ford LLC,Uzbekistan,0.82,2005
+S_15,"Robinson, Nguyen and Tate",Azerbaijan,0.77,1982
+S_16,Trujillo Group,Ethiopia,0.61,1973
+S_17,"Walter, Edwards and Rios",Indonesia,0.79,2019
+S_18,"Ellis, Baker and Wright",Monaco,0.9,2000
+S_19,"Richards, Hurst and Ross",Cyprus,0.5,2026
+S_20,Hicks Inc,Saudi Arabia,0.9,1972
+S_21,Hernandez and Sons,Somalia,0.85,2008
+S_22,"Brown, James and Ferrell",Marshall Islands,0.67,1984
+S_23,"Valencia, Smith and Le",Pitcairn Islands,0.58,2019
+S_24,Mack-Peterson,French Polynesia,0.98,1994
+S_25,Smith-Bowen,Saint Helena,0.67,1984
+S_26,"Gill, Romero and Rodriguez",Niue,0.55,1986
+S_27,"Romero, Gonzalez and Brooks",Central African Republic,0.55,2000
+S_28,"Sellers, George and Burns",Bouvet Island (Bouvetoya),0.92,2022
+S_29,Allen-Allen,Montenegro,0.8,2023
+S_30,Dennis Inc,Senegal,0.9,1999
+S_31,Anderson Group,Yemen,0.86,2000
+S_32,Rose-Obrien,Croatia,0.77,2022
+S_33,"Vaughn, Marquez and Ross",Paraguay,0.99,2006
+S_34,Lam-Hayes,Egypt,0.69,1982
+S_35,Smith-Spencer,Namibia,0.78,1982
+S_36,Zimmerman Inc,Denmark,0.91,1973
+S_37,Heath Inc,Malaysia,0.81,1983
+S_38,"Washington, Ryan and Cummings",Turkmenistan,0.93,2002
+S_39,Sanchez-Kennedy,Ireland,0.79,1980
+S_40,Hopkins LLC,Jamaica,0.85,1993
+S_41,"Brown, Valdez and Lucas",Bahamas,0.52,1992
+S_42,Mcbride-Rodriguez,Congo,0.61,1980
+S_43,Taylor-White,Kyrgyz Republic,0.64,1984
+S_44,Ramos PLC,Bolivia,0.54,1972
+S_45,"Huff, Novak and House",Thailand,0.62,1983
+S_46,Tucker-Lewis,Iran,0.55,2020
+S_47,Gray Group,Estonia,0.64,2022
+S_48,Mitchell-Horton,Saint Martin,0.82,2025
+S_49,"Stanley, Tucker and Lee",Cuba,0.68,2024

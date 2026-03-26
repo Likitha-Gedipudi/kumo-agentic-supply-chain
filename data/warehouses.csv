@@ -1,0 +1,11 @@
+warehouse_id,location,capacity,current_load
+W_0,Lake Leeton,7065,0.38
+W_1,Shawhaven,5374,0.66
+W_2,North Susan,2169,0.59
+W_3,Port Jacobland,3803,0.53
+W_4,South David,5010,0.23
+W_5,New Brooke,7216,0.32
+W_6,South Dianeshire,4598,0.65
+W_7,Sarahborough,1916,0.28
+W_8,Johnfurt,1525,0.74
+W_9,Lake Debbie,7572,0.31
