@@ -11,7 +11,7 @@ Instead of manual feature engineering, the underlying database (Suppliers, Wareh
 You can ask the AI structural questions (e.g. *"Will product P_40 be delayed shipping to warehouse W_5?"*). The LangChain Agent translates your intent, queries the PyG Graph Transformer, and returns a Zero-Shot/Glass-Box prediction.
 """)
 
-api_key = st.sidebar.text_input("OpenAI API Key (for LangChain)", type="password")
+st.sidebar.success("✅ Operating in Full Local Mode (No API Key Required)")
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
@@ -26,13 +26,10 @@ if prompt := st.chat_input("E.g. What is the probability of delay for product P_
         st.markdown(prompt)
 
     with st.chat_message("assistant"):
-        if not api_key:
-            st.error("Please enter your OpenAI API Key in the sidebar to run the LangChain Agent.")
-            st.stop()
-            
         with st.spinner("Translating natural language to Graph PQL..."):
             try:
-                agent = get_agent(api_key=api_key)
+                # API key is now bypassed in agent.py
+                agent = get_agent()
                 response = agent.invoke({"input": prompt})
                 ans = response["output"]
                 st.markdown(ans)
